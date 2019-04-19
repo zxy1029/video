@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ￥ﾼﾠ￧﾿ﾔ￥ﾮﾇ
+Build-Jdk: 11.0.2
+Implementation-Title: videos-dev-pojo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.zxy
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/videos-dev/vid
+ eos-dev-pojo/
+Created-By: Maven Integration for Eclipse
+
